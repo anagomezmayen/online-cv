@@ -64,15 +64,15 @@ education:
           - Bullet point
     - degree: BSc in Computer Science
       university: National University of Mexico
-      time: 2007 - 2011
+      time: 2000 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - SQL 
+          - Databases
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -164,23 +164,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SQL
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Phyton
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C#
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+  
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
