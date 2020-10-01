@@ -12,9 +12,7 @@ sidebar:
     avatar: bwPhoto.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    #email: hello@webjeda.com
-    #phone: 012 345 6789
-    #website: blog.webjeda.com #do not add http://
+    website: anagomez.dev #do not add http://
     linkedin: ana-gomez-mayen-b70539167
     github: anagomezmayen
     gitlab:
@@ -32,9 +30,6 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Cooking
-        link:
-
       - item: Positive Discipline Education
         link:
 
@@ -46,9 +41,17 @@ career-profile:
     summary: |
       Energetic, enthusiastic,self-motivated and passionate about tech, children and education.
 education:
+    - dregree: Software Development Deep Stack Bootcamp
+      university: KAL Academy
+      time: May 2020 - Sep 2020
+      details: |
+        Diverse projects including Microservices
+          - UWP Application
+          - Mobile Application
+          - Microservices
     - degree: MSc in Computer Engineering
       university: National University of Mexico
-      time: 2011 - 2012
+      time: 2006 - 2009
       details: |
         Working on library databases.
           - Bullet point
@@ -85,8 +88,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Portfolio.
+      genArise was my firts big project, implemented with R. The most recent project are using Python or C# - UWP Applicattion, Mobile App and Microservices.
     assignments:
+      - title: Portfolio
+        link: http://anagomez.dev
+        
       - title: genArise
         link: "https://rdrr.io/bioc/genArise/"
         tagline: "Tool for dual color microarray data. Its GUI-Tk based environment let any non-experienced user performs a basic, but not simple, data analysis just following a wizard. In addition it provides some tools for the developer."
@@ -96,11 +102,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: SQL
+      - name: C#
         level: 80%
-
-      - name: Javascript & jQuery
-        level: 50%
 
       - name: Phyton
         level: 50%
