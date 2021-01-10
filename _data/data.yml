@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Ana Gomez
-    tagline: Software Engineer
-    avatar: bwPhoto.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Software Developer Engineer
+    avatar: pic3.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     website: anagomez.dev #do not add http://
@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Career profile
     summary: |
-      Energetic, enthusiastic,self-motivated and passionate about tech, children and education.
+      Coffee lover, energetic, enthusiastic, self-motivated and passionate about tech, children and education.
 education:
     - dregree: Software Development Bootcamp
       university: KAL Academy
@@ -61,6 +61,7 @@ education:
       time: 2000 - 2004
       details: |
         Interdisciplinary work on DNA Analysis and databases.
+          - R
           - SQL 
           - Databases
 experiences:
@@ -68,31 +69,34 @@ experiences:
       time: 2018 - 2019
       company: Insight Global, Bellevue WA
       details: |
-        Collaboration in projects of Microsoft Research Team.
+        Help create and expanse data for various projects of AI.
           - Detail
           - Team work
     - role: Project Leader
       time: 2008 - 2014
       company: National Water Comission, Mexico
       details: |
-        Review projects with educational institutions.
+        Reviewed software developments and apps with educational institutions; Design and dev Institutional Web Developments using Java, JavaScript, HTML.
           - Databases
+          - Java
+          - Statistics analysis
           - Excel, Office 
     - role: Assistant Professor
       time: 2003 - 2007
       company: National University of Mexico
       details: |
-        Classes, help students with projects
-          - Coding - Data Structures
+        Prepare exams and lectures for classes: Introduction to Computer Science, Databases, SQL and Data Structures.
+          - Coding (Java, Linux) - Data Structures
           - Relational Databases - SQL
 projects:
     title: Projects
     intro: >
-      genArise was my firts big project, implemented with R. The most recent project are using Python or C# - UWP Applicattion, Mobile App and Microservices.
-    assignments:
+       Working to go back on track and catch up what is trend today. 
+       assignments:
       - title: Portfolio
         link: http://anagomez.dev
-        
+        tagline: "The most recent projects use Python or C# - UWP Applicattion, Mobile App, Javascript, NoSQL and Microservices."
+ 
       - title: genArise
         link: "https://rdrr.io/bioc/genArise/"
         tagline: "Tool for dual color microarray data. Its GUI-Tk based environment let any non-experienced user performs a basic, but not simple, data analysis just following a wizard. In addition it provides some tools for the developer."
@@ -106,8 +110,10 @@ skills:
         level: 80%
 
       - name: Phyton
-        level: 50%
-
+        level: 60%
+      
+      -name: Javascript
+       level: 65%
   
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
