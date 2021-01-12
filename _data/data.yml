@@ -92,7 +92,7 @@ projects:
     title: Projects
     intro: >
        Working to go back on track and catch up what is trend today. 
-       assignments:
+    assignments:
       - title: Portfolio
         link: http://anagomez.dev
         tagline: "The most recent projects use Python or C# - UWP Applicattion, Mobile App, Javascript, NoSQL and Microservices."
